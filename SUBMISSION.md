@@ -294,9 +294,7 @@ I intentionally avoided adding unnecessary infrastructure (such as web servers, 
 
 List your main commits and what each one addressed:
 
-1. `[commit hash]` - [Description of what this commit fixed]
-2. `[commit hash]` - [Description]
-3. etc.
+1. `[e0f5233]` - [Fix stability issues, improve sync resilience, and clean up structure]
 
 ---
 
